@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/arnabsen1729/md2pdf/parser"
-	"github.com/arnabsen1729/md2pdf/writer"
+	"github.com/mclark4386/md2pdf/parser"
+	"github.com/mclark4386/md2pdf/writer"
 )
 
 // readFile to read the contents of the file and return string.
