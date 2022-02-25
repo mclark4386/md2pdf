@@ -173,7 +173,7 @@ func (p *PdfWriter) Export(filename string) {
 	}
 }
 
-// Export saves the PdfWriter object out to the provided [io.Writer].
+// Export saves the PdfWriter object out to the provided io.Writer.
 func (p *PdfWriter) Export(w io.Writer) {
 	err := p.pdf.Output(w)
 	if err != nil {
