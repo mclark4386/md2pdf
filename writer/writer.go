@@ -9,7 +9,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/arnabsen1729/md2pdf/parser"
+	"github.com/mclark4386/md2pdf/parser"
 	"github.com/jung-kurt/gofpdf"
 	"github.com/jung-kurt/gofpdf/contrib/httpimg"
 )
