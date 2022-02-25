@@ -1,4 +1,4 @@
-module github.com/arnabsen1729/md2pdf
+module github.com/mclark4386/md2pdf
 
 go 1.14
 
